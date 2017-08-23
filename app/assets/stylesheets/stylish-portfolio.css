@@ -16,10 +16,9 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-.text-vertical-center {
+.text-vertical-center div {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
 }
 
 .text-vertical-center h1 {
@@ -182,10 +181,10 @@ hr.small {
 
 .callout {
     display: table;
-    width: 100%;
+    width: 50%;
     height: 400px;
     color: #fff;
-    background: url(http://ironsummitmedia.github.io/startbootstrap-stylish-portfolio/img/callout.jpg) no-repeat center center scroll;
+    background: url(http://i.imgur.com/LFZ9hTz.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
